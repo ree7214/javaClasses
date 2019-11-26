@@ -23,7 +23,7 @@ public class ObjectOfCarClass {
 		Car car2=new Car();
 		car2.make="BMW";
 		car2.model="i8";
-		car2.color="Purpsle";
+		car2.color="Purple";
 		car2.year=2019;
 		car2.wheels=4;
 		car2.windows=6;
