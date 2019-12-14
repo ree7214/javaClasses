@@ -4,9 +4,8 @@ public class RegistrationTest {
 
 	public static void main(String[] args) {
 		
-		Registration reg=new Registration();
-		reg.setPasword("mmerriman","mike123");
-	    reg.setEmail("MariaMerriman@gmail.com");
-	    reg.setUsername("mmerriman");
+		RegistrationClass obj=new RegistrationClass();
+		obj.setUsername("John123445");
+		System.out.println(obj.getUsername());
 	}
 	}

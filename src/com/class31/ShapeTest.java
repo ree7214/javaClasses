@@ -7,8 +7,6 @@ public class ShapeTest {
 		shape.calculateArea(10);
 		shape.calculatePerimiter(10);
 		
-		
-
 	}
 
 }
