@@ -22,8 +22,6 @@ public class HomeWorkQuestion {
 		 setArray.addAll(alist);
 		 System.out.println(setArray);
 		 alist.clear();
-		 System.out.println(setArray);
-
 
 }
 }

@@ -9,6 +9,13 @@ public class LinkedListDemo {
 		LinkedList<String>llist=new LinkedList<>();
 		llist.add("Hello");
 		llist.add("Bye");
+		llist.add("good bye");
+		
+		System.out.println(llist.getFirst());
+
+		for(String l1:llist) {
+			System.out.println(l1);
+		}
 		
 		System.out.println(llist.size());
 		llist.add("Hello1");

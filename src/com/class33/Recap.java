@@ -36,6 +36,7 @@ public class Recap {
 		
 		//2. advanced loop	
 		for(int num:numbers) {
+		
 			System.out.println(num);
 		}
 		System.out.println("-------------------------");
